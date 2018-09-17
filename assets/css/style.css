@@ -1,0 +1,104 @@
+.navbar-brand {
+    float: left;
+    font-size: 1.5em;
+    background-color: #4aaaa5;
+    color: white;
+    height: 1.3em;
+    margin: 0;
+    padding: 1em;
+}
+
+header {
+    background-color: #ffffff;
+    height: 5em;
+    border-bottom: solid 3px #cccccc;
+}
+
+.navbar {
+    color: #777777;
+    border-bottom: solid 3px #cccccc;
+}
+
+img {
+    height: 200px;
+    width: 300px;
+}
+
+body {
+    background: url("../images/dark-triangles.png");
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.mainContent {
+    background-color: #ffffff;
+    border-color: #dddddd;
+    padding: 2em;
+    margin: 2em auto;
+    overflow: hidden;
+}
+
+footer {
+    background-color: #666666;
+    clear: both;
+    height: 5em;
+    border-top: solid 3px #4aaaa5;
+}
+
+.copy {
+    text-align: center;
+    padding: 1em;
+    color: white;
+}
+
+.headshot {
+    /* margin-right: 1em; */
+    /* margin-top: 1em; */
+    float: left;
+}
+
+.name, .message, .email {
+    width: 100%;
+}
+
+.message {
+    height: 10em;
+}
+
+.submit {
+    padding-top: .5em;
+    padding-bottom: .5em;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 1em;
+    background-color: #4aaaa5;
+}
+
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+}
+
+.container {
+    float: left;
+    text-align: center;
+    color: white;
+    margin-right: 50px;
+    height: 250px;
+}
+
+.portfolio {
+    position: relative;
+    bottom: 5em;
+    text-align: center;
+    background-color: #4aaaa5;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+hr {
+    margin-bottom: 2em;
+}
+
+.image {
+    padding: 0;
+}
