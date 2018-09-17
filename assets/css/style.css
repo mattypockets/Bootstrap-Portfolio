@@ -13,6 +13,7 @@ header {
     background-color: #ffffff;
     height: 5em;
     border-bottom: solid 3px #cccccc;
+
 }
 
 .navbar {
@@ -45,46 +46,11 @@ footer {
     border-top: solid 3px #4aaaa5;
 }
 
-.copy {
-    text-align: center;
-    padding: 1em;
-    color: white;
-}
 
-.headshot {
-    /* margin-right: 1em; */
-    /* margin-top: 1em; */
-    float: left;
-}
-
-.name, .message, .email {
-    width: 100%;
-}
-
-.message {
-    height: 10em;
-}
-
-.submit {
-    padding-top: .5em;
-    padding-bottom: .5em;
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-top: 1em;
-    background-color: #4aaaa5;
-}
 
 h1 {
-    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
     color: #4aaaa5;
-}
-
-.container {
-    float: left;
-    text-align: center;
-    color: white;
-    margin-right: 50px;
-    height: 250px;
 }
 
 .portfolio {
@@ -103,4 +69,13 @@ hr {
 
 .image {
     padding: 0;
+}
+
+.navbar-nav {
+    margin-right: 5.5em;
+}
+
+.navLink {
+    color: inherit;
+    margin-right: 1em;
 }
