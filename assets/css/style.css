@@ -3,9 +3,10 @@
     font-size: 1.5em;
     background-color: #4aaaa5;
     color: white;
-    height: 1.3em;
-    margin: 0;
-    padding: 1em;
+    margin-top: -.3em;
+    padding: .5em;
+    margin-bottom: -.3em;
+    margin-left: -.65em;
 }
 
 header {
@@ -93,6 +94,7 @@ h1 {
     background-color: #4aaaa5;
     padding-top: 1em;
     padding-bottom: 1em;
+    width: 300px;
 }
 
 hr {
