@@ -48,7 +48,7 @@ footer {
 
 
 
-h1 {
+h1, h4 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     color: #4aaaa5;
 }
@@ -78,4 +78,8 @@ hr {
 .navLink {
     color: inherit;
     margin-right: 1em;
+}
+
+a {
+    color: inherit;
 }
